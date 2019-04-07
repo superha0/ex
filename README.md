@@ -1,3 +1,4 @@
 hi
 bye
+merge
 hello
